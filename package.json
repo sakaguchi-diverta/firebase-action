@@ -1,0 +1,22 @@
+{
+  "name": "firebase-action",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakaguchi-diverta/firebase-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakaguchi-diverta/firebase-action/issues"
+  },
+  "homepage": "https://github.com/sakaguchi-diverta/firebase-action#readme"
+}
